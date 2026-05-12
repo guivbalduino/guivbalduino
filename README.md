@@ -1,57 +1,53 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Vilar+Balduino+😊;I'm+27+years+old;I'm+from+Brazil;Computer+Scientist+👨🏻‍💻;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<!-- HEADER -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/guilhermebalduino/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <!-- Substitua o src abaixo pelo link/arquivo da imagem gerada no github-profile-header-generator -->
+  <img src="header.png" width="100%" alt="Guilherme Vilar Balduino Banner"/>
 </div>
 
-### 🚀 Main Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005571?style=for-the-badge&logo=sql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-
-### 💡 Soft Skills
-![Problem Solving](https://img.shields.io/badge/-Problem_Solving-FFD43B?style=for-the-badge&logo=lightbulb&logoColor=black)
-![Team Collaboration](https://img.shields.io/badge/-Team_Collaboration-7FBB00?style=for-the-badge&logo=people-arrows&logoColor=white)
-![Communication](https://img.shields.io/badge/-Communication-00B4D8?style=for-the-badge&logo=comment-dots&logoColor=white)
-![Adaptability](https://img.shields.io/badge/-Adaptability-FF7B00?style=for-the-badge&logo=arrows-spin&logoColor=white)
-
-### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### 🧠 Data Science Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer&text=&fontColor=ffffff&fontSize=20&fontAlignY=32" alt="Footer Banner" />
-<!--
-**Vilardino/Vilardino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+```javascript
+const guilherme = {
+  role: "Computer Scientist & Senior Frontend Developer",
+  origin: "Brazil 🇧🇷",
+  linkedin: "linkedin.com/in/guilhermebalduino",
+  interests: ["Frontend Development", "Data Science", "Machine Learning", "BI"],
+  softSkills: ["Problem Solving", "Adaptability", "Team Collaboration"],
+  sayHi: "Always eager to learn and adapt! 🚀"
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+  
+  <h4>🌐 Web Development, Databases & DevOps</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,python,tensorflow,postgres,mysql,mongodb,docker" alt="Tech Stack" />
+  </a>
+  
+  <br><br>
+  
+  <h4>📈 Data Science & Business Intelligence</h4>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="Pandas" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40" alt="Scikit-Learn" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/looker/4285F4" height="40" alt="Looker" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" style="margin: 0 10px;" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" height="40" alt="Excel" style="margin: 0 10px;" />
+
+</div>
+
+<br><br>
+
+## 📊 GitHub Analytics
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=guivbalduino&theme=github-dark-dimmed&hide_border=true&border_radius=40&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=1200)](https://git.io/streak-stats)
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=45" alt="Footer Banner" />
